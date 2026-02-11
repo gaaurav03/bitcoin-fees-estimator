@@ -14,7 +14,7 @@ A small web tool that displays real-time Bitcoin transaction fee recommendations
 - Vite
 
 ## API Used
-https://mempool.space/api/v1/fees/recommended
+https://blockstream.info/api/fee-estimates
 
 ## Run Locally
 ```bash
