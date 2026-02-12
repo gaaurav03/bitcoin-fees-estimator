@@ -239,7 +239,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/gaaurav03)
+- GitHub: [@gaaurav03](https://github.com/gaaurav03)
 - Email: gaurav21687@gmail.com
 
 **Live Project Link:** https://bitcoin-fees-estimator-lhny.onrender.com/
